@@ -1,6 +1,9 @@
-Selenium Automation (with Java)
+**Selenium Automation (with Java)**
 
-Java, Selenium, TestNG
-Maven, POM
-extentreports
-Read the username and password from Properties
+- Java, Selenium, TestNG
+
+- Maven, POM
+
+- extentreports
+
+- Read the username and password from the Properties
